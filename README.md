@@ -27,17 +27,18 @@ Aprenderás todas estas tecnologías:
 
 En este repositorio encontrarás todo lo necesario para convertirte en un Python developer. Desde el conocimiento de la sintaxis del lenguaje, hasta crear páginas webs con bases de datos y aplicaciones de escritorio con interfaz gráfica.
 
-# Tabla de contenidos
+# 🐍 Tabla de contenidos
 
 *NOTA: La tabla de contenidos se actualiza todas las semanas*
 
 ## Semana 01
 
-* [Día 1 - Introducción a Python ↗](https://www.google.com)
+* [Día 1 - Introducción a Python ↗](https://github.com/AntuBoccalandro/100-Days-of-Python-and-more/tree/master/Semana_01)
   * Que es Python, conceptos e historia
   * Instalación de Python y comprobación de la instalación
   * Preparación del espacio de trabajo
   * Primer programa "Hola Mundo"
+  * Comentarios
   * Imprimir texto por la terminal 
   * Variables y direcciónes de memoria
   * Constantes
