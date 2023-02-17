@@ -1,3 +1,4 @@
+![](../../images/Cover%20Main%20Page.png)
 
 ***Índice de contenidos:***
 * Conceptos introductorios

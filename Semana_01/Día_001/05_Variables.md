@@ -1,3 +1,5 @@
+![](../../images/Cover%20Main%20Page.png)
+
 ***Índice de contenidos:***
 * Variables
   * Definiendo una variable

@@ -1,3 +1,5 @@
+![](../../images/Cover%20Main%20Page.png)
+
 ***Índice de contenidos:***
 * Imprimir valores por terminal
   * La función print()
